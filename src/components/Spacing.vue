@@ -1,6 +1,9 @@
 <template>
   <div>
-    <h3>Spacing</h3>
+    <h3 class="ma-16 ml-n16 ml-sm-1">Spacing</h3>
+    <v-row>
+        <h3 class="mx-auto red--text display-2">centered</h3>
+    </v-row>
     <v-card class="mt-5 mb-8">
       <v-card-text>
         <v-container
